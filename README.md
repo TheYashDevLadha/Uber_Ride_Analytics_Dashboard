@@ -119,18 +119,27 @@ The dashboard is built using the following data columns:
 
 ## ❓ Power BI Questions Solved
 
-This dashboard addresses the following analytical questions with specific visualization techniques:
+This comprehensive dashboard is organized into 5 strategic view segments, each addressing specific business analytics questions:
 
-1. **Ride Volume Over Time** - A time-series chart showing the number of rides per day/week
-2. **Booking Status Breakdown** - A pie or doughnut chart displaying the proportion of different booking statuses (success, cancelled by the customer, cancelled by the driver, etc.)
-3. **Top 5 Vehicle Types by Ride Distance** - A bar chart ranking vehicle types based on the total distance covered
-4. **Average Customer Ratings by Vehicle Type** - A column chart showing the average customer ratings for different vehicle types
-5. **Cancelled Rides Reasons** - A bar chart that highlights the common reasons for ride cancellations by customers and drivers
-6. **Revenue by Payment Method** - A stacked bar chart displaying total revenue based on payment methods (Cash, UPI, Credit Card, etc.)
-7. **Top 5 Customers by Total Booking Value** - A leaderboard visual listing customers who have spent the most on bookings
-8. **Ride Distance Distribution Per Day** - A histogram or scatter plot showing the distribution of ride distances for different dates
-9. **Driver Rating Distribution** - A box plot visualizing the spread of driver ratings for different vehicle types
-10. **Customer vs. Driver Ratings** - A scatter plot comparing customer and driver ratings for each completed ride, analyzing correlations
+### 1. 📊 Overall Performance View
+- **Ride Volume Over Time** - Time-series chart tracking daily/weekly ride patterns to identify seasonal trends and demand fluctuations
+- **Booking Status Breakdown** - Pie/doughnut chart displaying proportions of completed, cancelled by customer, cancelled by driver, and other booking statuses
+
+### 2. 🚗 Vehicle Type Analysis View  
+- **Top 5 Vehicle Types by Ride Distance** - Table chart ranking vehicle types (Go Mini, Go Sedan, Auto, eBike/Bike, UberXL, Premier Sedan) based on total distance covered
+
+### 3. 💰 Revenue Analytics View
+- **Revenue by Payment Method** - Stacked bar chart breaking down revenue streams across payment channels (UPI, Cash, Credit Cards, Uber Wallet, Debit Card)
+- **Top 5 Customers by Total Booking Value** - Leaderboard visualization identifying high-value customers and their spending patterns
+- **Ride Distance Distribution Per Day** - Histogram plot revealing daily operational coverage patterns and distance distribution insights
+
+### 4. 🚫 Cancellation Intelligence View
+- **Cancelled Rides Reasons (Customer)** - Pie chart analysis examining customer-initiated cancellation drivers (Wrong Address, Change of Plans, Driver Issues, App Problems)
+- **Cancelled Rides Reasons (Driver)** - Pie chart breakdown of driver-initiated cancellations (Customer Related Issues, Personal & Car Issues, Capacity Constraints)
+
+### 5. ⭐ Rating & Quality Assessment View
+- **Driver Ratings Distribution** - Card-based visualization displaying average driver ratings (4.23-4.24) across all vehicle types for easy comparison
+- **Customer Ratings Analysis** - Card layout showcasing customer satisfaction ratings (4.40-4.41) across vehicle categories, enabling quality benchmarking
 
 ---
 
