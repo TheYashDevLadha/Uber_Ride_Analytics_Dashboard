@@ -4,9 +4,13 @@ A comprehensive data visualization dashboard for analyzing Uber ride-sharing bus
 
 ## 🎬 Project Showcase
 
-![Dashboard Demo](demo.gif)
+<img src="assets/Project Showcase/Dasboard.gif" alt="Dashboard Demo">
 
-> **Don't forget to leave a star ⭐️**
+<div align="center">
+
+# **Don't forget to leave a star ⭐️**
+
+</div>
 
 ## 📊 Dashboard Overview
 
@@ -19,6 +23,32 @@ This interactive dashboard provides insights into various aspects of Uber's ride
 - **Customer Cancellations**: 19.15% (27K)
 - **Driver Cancellations**: 7.45% (10.5K)
 
+
+## ❓ Power BI Questions Solved
+
+This comprehensive dashboard is organized into 5 strategic view segments, each addressing specific business analytics questions:
+
+### 1. 📊 Overall Performance View
+- **Ride Volume Over Time** - Time-series chart tracking daily/weekly ride patterns to identify seasonal trends and demand fluctuations
+- **Booking Status Breakdown** - Pie/doughnut chart displaying proportions of completed, cancelled by customer, cancelled by driver, and other booking statuses
+
+### 2. 🚗 Vehicle Type Analysis View  
+- **Top 5 Vehicle Types by Ride Distance** - Table chart ranking vehicle types (Go Mini, Go Sedan, Auto, eBike/Bike, UberXL, Premier Sedan) based on total distance covered
+
+### 3. 💰 Revenue Analytics View
+- **Revenue by Payment Method** - Stacked bar chart breaking down revenue streams across payment channels (UPI, Cash, Credit Cards, Uber Wallet, Debit Card)
+- **Top 5 Customers by Total Booking Value** - Leaderboard visualization identifying high-value customers and their spending patterns
+- **Ride Distance Distribution Per Day** - Histogram plot revealing daily operational coverage patterns and distance distribution insights
+
+### 4. 🚫 Cancellation Intelligence View
+- **Cancelled Rides Reasons (Customer)** - Pie chart analysis examining customer-initiated cancellation drivers (Wrong Address, Change of Plans, Driver Issues, App Problems)
+- **Cancelled Rides Reasons (Driver)** - Pie chart breakdown of driver-initiated cancellations (Customer Related Issues, Personal & Car Issues, Capacity Constraints)
+
+### 5. ⭐ Rating & Quality Assessment View
+- **Driver Ratings Distribution** - Card-based visualization displaying average driver ratings (4.23-4.24) across all vehicle types for easy comparison
+- **Customer Ratings Analysis** - Card layout showcasing customer satisfaction ratings (4.40-4.41) across vehicle categories, enabling quality benchmarking
+
+
 ## 🚗 Vehicle Fleet Analysis
 
 | Vehicle Type | Total Bookings | Success Bookings | Avg Distance | Total Distance |
@@ -29,6 +59,7 @@ This interactive dashboard provides insights into various aspects of Uber's ride
 | eBike/Bike   | 11.46M         | 10.44M          | 26.11 km      | 537K km        |
 | UberXL       | 1.53M          | 1.41M           | 25.72 km      | 72K km         |
 | Premier Sedan| 6.28M          | 5.73M           | 25.95 km      | 292K km        |
+
 
 ## 📈 Dashboard Views & Features
 
@@ -77,6 +108,7 @@ This interactive dashboard provides insights into various aspects of Uber's ride
 - UberXL showing marginally higher driver satisfaction (4.24)
 - Consistent performance across all vehicle categories
 
+
 ## 🔧 Data Schema
 
 The dashboard is built using the following data columns:
@@ -95,6 +127,7 @@ The dashboard is built using the following data columns:
 - Payment Method
 ```
 
+
 ## 📊 Key Visualizations
 
 1. **Time Series Analysis**: Monthly ride volume trends
@@ -102,6 +135,8 @@ The dashboard is built using the following data columns:
 3. **Bar Charts**: Revenue by payment method, top customers
 4. **Tables**: Vehicle type performance metrics
 5. **Histograms**: Daily distance distribution patterns
+
+
 
 ## 🎯 Business Insights
 
@@ -117,30 +152,9 @@ The dashboard is built using the following data columns:
 - Seasonal variations in ride volume
 - Customer retention strategies for top spenders
 
-## ❓ Power BI Questions Solved
-
-This comprehensive dashboard is organized into 5 strategic view segments, each addressing specific business analytics questions:
-
-### 1. 📊 Overall Performance View
-- **Ride Volume Over Time** - Time-series chart tracking daily/weekly ride patterns to identify seasonal trends and demand fluctuations
-- **Booking Status Breakdown** - Pie/doughnut chart displaying proportions of completed, cancelled by customer, cancelled by driver, and other booking statuses
-
-### 2. 🚗 Vehicle Type Analysis View  
-- **Top 5 Vehicle Types by Ride Distance** - Table chart ranking vehicle types (Go Mini, Go Sedan, Auto, eBike/Bike, UberXL, Premier Sedan) based on total distance covered
-
-### 3. 💰 Revenue Analytics View
-- **Revenue by Payment Method** - Stacked bar chart breaking down revenue streams across payment channels (UPI, Cash, Credit Cards, Uber Wallet, Debit Card)
-- **Top 5 Customers by Total Booking Value** - Leaderboard visualization identifying high-value customers and their spending patterns
-- **Ride Distance Distribution Per Day** - Histogram plot revealing daily operational coverage patterns and distance distribution insights
-
-### 4. 🚫 Cancellation Intelligence View
-- **Cancelled Rides Reasons (Customer)** - Pie chart analysis examining customer-initiated cancellation drivers (Wrong Address, Change of Plans, Driver Issues, App Problems)
-- **Cancelled Rides Reasons (Driver)** - Pie chart breakdown of driver-initiated cancellations (Customer Related Issues, Personal & Car Issues, Capacity Constraints)
-
-### 5. ⭐ Rating & Quality Assessment View
-- **Driver Ratings Distribution** - Card-based visualization displaying average driver ratings (4.23-4.24) across all vehicle types for easy comparison
-- **Customer Ratings Analysis** - Card layout showcasing customer satisfaction ratings (4.40-4.41) across vehicle categories, enabling quality benchmarking
-
----
-
-**Note**: This dashboard represents data for the period January 1, 2024 to December 30, 2024, providing a comprehensive year-long analysis of Uber's ride-sharing operations.
+<!-- 
+<h2></h2>
+<div align="center">
+<strong>Thank you for exploring this dashboard! </strong>
+<h3>If this project helped you, please consider giving it a ⭐️</h3>
+</div> -->
