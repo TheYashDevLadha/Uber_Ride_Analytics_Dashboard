@@ -1,4 +1,4 @@
-# Uber Ride Analytics Dashboard
+# Uber Data Analytics Dashboard
 
 A comprehensive data visualization dashboard for analyzing Uber ride-sharing business metrics and performance indicators for the year 2024.
 
