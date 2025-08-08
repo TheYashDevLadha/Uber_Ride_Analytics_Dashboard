@@ -121,4 +121,3 @@ The dashboard is built using the following data columns:
 
 ---
 
-**Note**: This dashboard represents data for the period January 1, 2024 to December 30, 2024, providing a comprehensive year-long analysis of Uber's ride-sharing operations.
